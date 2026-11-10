@@ -1,18 +1,16 @@
 ```console
-Users:/users/SystXD$ fetchSyst
+Users:/users/leafessss$ harveyyy
 ```
   
 ```coffee
-SystXD@GitHub/SystXD
+systxd@github/leafesssss
 -----------------------
-Work: "I like to sleep"
-OS: Windows 96
-Server: Ubuntu
+Work: lazy ass
+OS: windows 96
+Server: ubuntu
 Uptime: 960028200
-Pronouns: He/Him
-Location: India
-Discord: syst69
+Pronouns:he/him
+Location: india
+Discord: leafessss_
 ```  
-<a href="https://discord.com/users/1129393606432661575"><img src="https://lanyard.cnrad.dev/api/1129393606432661575?bg=1f1f1f&borderRadius=5px" width="320"/></a>
-</div>
 
